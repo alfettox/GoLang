@@ -1,20 +1,10 @@
 /*
-	Architecture independent integer types
-	- int, uint, uintptr
-	- 32 bit systems: 32 bit integers
-	- 64 bit systems: 64 bit integers
-	- Size of int is platform dependent
-	- Size of uint is platform dependent
-	- Size of uintptr is platform dependent
-	- Use int for indexing a collection
-	- Use uint for counting
-	- Use uintptr for storing a pointer
-	- Use int for integer arithmetic
-	- Use uint for bit manipulation
-	- Use uintptr to convert between pointers
-	- Use int if you need a variable that is guaranteed to be able to hold all the values of a pointer
-
+Author: Giovanni De Franceschi
 */
+
+
+
+
 
 package main
 
