@@ -8,10 +8,10 @@ import (
 )
 
 func main() {
-	var currentLetter rune = 'a' // Use rune type to hold a single character
+	var currentLetter rune = 'a'
 
-	for a := 0; a < 26; a++ { // Changed the loop limit to 26 for the full alphabet
-		fmt.Printf("%d letter %c\n", a+1, currentLetter) // Print the index and the current letter
+	for a := 0; a < 26; a++ { 
+		fmt.Printf("%d letter %c\n", a+1, currentLetter) 
 		currentLetter++
 	}
 }

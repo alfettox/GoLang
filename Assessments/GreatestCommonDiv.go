@@ -23,16 +23,6 @@ func main() {
 	fmt.Scan(&number2)
 
 	fmt.Println("The greatest common divisor is", gcd(number1, number2))
-
-	// calcGCDWithoutFunctionGcd(number1, number2);
-
-
 }
 
 
-// func calcGCDWithoutFunctionGcd(a, b int) {
-// 	for b != 0 {
-// 		a, b = b, a%b
-// 	}
-// 	fmt.Println("The greatest common divisor is", a)
-// }
