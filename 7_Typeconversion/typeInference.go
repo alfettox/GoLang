@@ -1,17 +1,13 @@
 /*
 Author: Giovanni De Franceschi
 */
-
-
-
-
 package main
 
 import (
 	"fmt"
-	"math"
 )
 
 func main() {
-    fmt.Println(math.Pi) //Pi is uppercase
+	c := 32
+	fmt.Printf("c is of type: %T\n", c)
 }
