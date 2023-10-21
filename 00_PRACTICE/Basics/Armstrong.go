@@ -1,6 +1,7 @@
 /*
 Author: Giovanni De Franceschi
 */
+
 package main
 
 //armstrong number is equal to the sum of its own digits
