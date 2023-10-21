@@ -1,0 +1,90 @@
+[
+    {
+        "_id": 1,
+        "name": "Classic Burger",
+        "category": "Burger",
+        "price": 5.66,
+        "description": "A classic beef burger with lettuce, tomato, and mayonnaise.",
+        "availability": true
+    },
+    {
+        "_id": 2,
+        "name": "Chicken Burger",
+        "category": "Burger",
+        "price": 6.99,
+        "description": "A delicious chicken burger with crispy lettuce and special sauce.",
+        "availability": true
+    },
+    {
+        "_id": 3,
+        "name": "Veggie Burger",
+        "category": "Burger",
+        "price": 4.99,
+        "description": "A vegetarian-friendly burger with fresh vegetables and hummus spread.",
+        "availability": true
+    },
+    {
+        "_id": 4,
+        "name": "Coke",
+        "category": "Drink",
+        "price": 1.99,
+        "description": "Refreshing Coca-Cola.",
+        "availability": true
+    },
+    {
+        "_id": 5,
+        "name": "Pepsi",
+        "category": "Drink",
+        "price": 1.99,
+        "description": "A classic Pepsi cola drink.",
+        "availability": true
+    },
+    {
+        "_id": 6,
+        "name": "Lemonade",
+        "category": "Drink",
+        "price": 1.99,
+        "description": "Homemade lemonade with a tangy twist.",
+        "availability": true
+    },
+    {
+        "_id": 7,
+        "name": "French Fries",
+        "category": "Side",
+        "price": 2.99,
+        "description": "Crispy and golden French fries served with ketchup.",
+        "availability": true
+    },
+    {
+        "_id": 8,
+        "name": "Onion Rings",
+        "category": "Side",
+        "price": 2.99,
+        "description": "Deliciously fried onion rings with a special dipping sauce.",
+        "availability": true
+    },
+    {
+        "_id": 9,
+        "name": "Coleslaw",
+        "category": "Side",
+        "price": 2.99,
+        "description": "Fresh coleslaw salad with a creamy dressing.",
+        "availability": true
+    },
+    {
+        "_id": 10,
+        "name": "Iced Tea",
+        "category": "Drink",
+        "price": 1.49,
+        "description": "Chilled iced tea with a hint of lemon and sweetness.",
+        "availability": true
+    },
+    {
+        "_id": 11,
+        "name": "Milkshake",
+        "category": "Drink",
+        "price": 3.49,
+        "description": "Thick and creamy milkshake in various flavors.",
+        "availability": true
+    }
+]
